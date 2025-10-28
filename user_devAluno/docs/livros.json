@@ -1,0 +1,2 @@
+{"_id":{"$oid":"690002c4459d8b81e6692469"},"titulo":"Introdução ao MongoDB","autor":"João da Silva","ano_publicacao":2021,"genero":"Tecnologia"}
+{"_id":{"$oid":"690002c4459d8b81e669246a"},"titulo":"Estruturas de Dados com JavaScript","autor":"Maria Oliveira","ano_publicacao":2023,"genero":"Programação"}
